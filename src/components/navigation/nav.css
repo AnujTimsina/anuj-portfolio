@@ -1,0 +1,34 @@
+.active{
+   
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   z-index: 999;
+   position: fixed;
+   background-color: rgb(228, 234, 239);
+   border-radius: 25px;
+   width: 30%;
+   height: 7vh;
+   margin-top: 10px;
+   margin-left: 30%;
+  
+}
+
+.hidden{
+    display: none;
+}
+
+a{
+    text-decoration: none;
+    padding: 7px 25px;
+    border-radius: 7px;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgb(192, 207, 236);
+}
+
+
+

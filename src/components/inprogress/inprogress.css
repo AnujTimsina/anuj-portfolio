@@ -1,0 +1,10 @@
+.progress{
+    height: 15vh;
+    display: flex;
+    letter-spacing: 1px;
+    font-weight: bold;
+    justify-content: space-around;
+    border-top: 3px solid green;
+    padding-top: 10px;
+    
+}
